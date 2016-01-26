@@ -59,7 +59,7 @@ body {
                                    /* offset horizontal: half of text area width */
 }
 
-.box {display: block; background-color: #1E83A2; color: #fff; padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px; text-decoration: none; border-radius: 5px;}
+.box {display: block; background-color: #1E83A2; color: #fff; padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px; text-decoration: none; border-radius: 5px; width: 100%;}
 
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
